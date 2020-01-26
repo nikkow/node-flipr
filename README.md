@@ -1,6 +1,9 @@
 # Node Flipr
 
-![https://img.shields.io/npm/l/node-flipr.svg](https://img.shields.io/npm/l/node-flipr.svg)
+[![npm](https://img.shields.io/npm/v/node-flipr.svg)](https://www.npmjs.com/package/node-flipr)
+[![npm](https://img.shields.io/npm/dt/node-flipr.svg)](https://www.npmjs.com/package/node-flipr)
+![license](https://img.shields.io/github/license/nikkow/node-flipr.svg)
+![code size](https://img.shields.io/github/languages/code-size/nikkow/node-flipr)
 
 ![](docs/imgs/flipr-node.png)
 
